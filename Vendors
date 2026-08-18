@@ -1,0 +1,13 @@
+VendorID,VendorName,ContactPerson,Email,Phone,Address,City,State,ZipCode,Country,PaymentTerms,Status
+V001,Global Supplies Inc,John Smith,john.smith@globalsupplies.com,555-0101,123 Business Ave,New York,NY,10001,USA,Net 30,Active
+V002,Tech Solutions Ltd,Sarah Johnson,sarah@techsolutions.com,555-0102,456 Innovation Dr,San Francisco,CA,94102,USA,Net 45,Active
+V003,Office Essentials Co,Mike Davis,mike.davis@officeessentials.com,555-0103,789 Commerce St,Chicago,IL,60601,USA,Net 30,Active
+V004,Industrial Parts Group,Robert Wilson,rwilson@industrialparts.com,555-0104,321 Factory Ln,Detroit,MI,48201,USA,Net 60,Active
+V005,Premium Services Ltd,Emma Brown,emma.brown@premiumservices.com,555-0105,654 Professional Blvd,Boston,MA,02101,USA,Net 45,Active
+V006,Green Energy Solutions,David Lee,david@greenenergy.com,555-0106,987 Sustainable Way,Denver,CO,80202,USA,Net 30,Active
+V007,Quality Manufacturing,Lisa Anderson,lisa@qualitymfg.com,555-0107,147 Production Ave,Atlanta,GA,30303,USA,Net 45,Active
+V008,Global Logistics Co,James Taylor,james.taylor@globallogistics.com,555-0108,258 Shipping Rd,Houston,TX,77001,USA,Net 30,Active
+V009,Enterprise Software Inc,Patricia Martinez,patricia@enterprisesoftware.com,555-0109,369 Tech Park,Seattle,WA,98101,USA,Net 60,Active
+V010,Specialty Materials Ltd,Christopher Garcia,chris@specialtymaterials.com,555-0110,741 Industrial Pk,Phoenix,AZ,85001,USA,Net 45,Active
+V011,Construction Supplies,Jennifer Wilson,jen@constructionsupplies.com,555-0111,852 Building Dr,Miami,FL,33101,USA,Net 30,Inactive
+V012,Digital Marketing Agency,Andrew Thompson,andrew@digitalmarketing.com,555-0112,963 Creative St,Los Angeles,CA,90001,USA,Net 45,Active
