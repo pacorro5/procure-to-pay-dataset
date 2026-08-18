@@ -1,0 +1,13 @@
+RequisitionID,RequisitionDate,DepartmentID,RequestedBy,Description,Quantity,ProductID,EstimatedCost,Justification,Status,ApprovedBy,ApprovalDate
+PR001,2024-01-05,D001,Robert Johnson,Office furniture upgrade,20,PS001,5000,Staff comfort improvement,Approved,Maria Garcia,2024-01-06
+PR002,2024-01-08,D002,Maria Garcia,System upgrade computers,15,PS002,12000,Hardware end-of-life replacement,Approved,James Wilson,2024-01-08
+PR003,2024-01-10,D005,David Brown,Marketing collateral printing,500,PS003,2500,Quarterly marketing campaign,Approved,Patricia Lee,2024-01-10
+PR004,2024-01-12,D002,Maria Garcia,Software subscriptions,50,PS004,6000,Annual license renewal,Approved,James Wilson,2024-01-13
+PR005,2024-01-15,D006,Susan Miller,Research equipment bearings,100,PS005,4500,Prototype development,Approved,Robert Johnson,2024-01-16
+PR006,2024-01-18,D004,Patricia Lee,External audit services,80,PS006,12000,Annual compliance audit,Approved,James Wilson,2024-01-18
+PR007,2024-01-20,D006,Susan Miller,Electronic components,200,PS007,5000,Production run materials,Approved,Robert Johnson,2024-01-21
+PR008,2024-01-22,D008,Lisa Anderson,Packaging supplies,1000,PS008,12000,Q1 production materials,Approved,Robert Johnson,2024-01-22
+PR009,2024-01-25,D007,Michael Davis,Janitorial supplies,300,PS009,2400,Monthly maintenance supplies,Approved,Robert Johnson,2024-01-25
+PR010,2024-01-28,D001,Robert Johnson,Energy efficiency audit,1,PS010,2000,Sustainability initiative,Pending,,,
+PR011,2024-02-02,D006,Susan Miller,Manufacturing equipment CNC,1,PS011,15000,Capacity expansion,Approved,Robert Johnson,2024-02-02
+PR012,2024-02-05,D008,Lisa Anderson,Shipping and freight,500,PS012,750,Monthly distribution,Approved,Robert Johnson,2024-02-05
