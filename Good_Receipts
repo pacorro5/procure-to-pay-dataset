@@ -1,0 +1,13 @@
+ReceiptID,ReceiptDate,POID,VendorID,QuantityReceived,QuantityOrdered,DamagedQuantity,ReceivedCondition,WarehouseLocation,ReceivedBy,InspectionStatus,Notes
+GR001,2024-01-30,PO001,V001,20,20,0,Good,WH-A1,John Davis,Passed,All items inspected and stocked
+GR002,2024-02-15,PO002,V002,15,15,1,Good,WH-B1,Maria Santos,Passed,One unit DOA - replacement requested
+GR003,2024-02-05,PO003,V001,500,500,0,Good,WH-A2,John Davis,Passed,All reams received intact
+GR004,2024-01-15,PO004,V002,50,50,0,Digital,N/A,IT Admin,Passed,Licenses activated in system
+GR005,2024-02-12,PO005,V004,98,100,2,Good,WH-C1,Michael Chen,Passed,2 units damaged in transit - RMA initiated
+GR006,2024-03-31,PO006,V005,80,80,0,Service,N/A,Patricia Lee,Passed,Consulting services completed
+GR007,2024-02-08,PO007,V010,200,200,0,Good,WH-C2,Michael Chen,Passed,All components quality checked
+GR008,2024-02-20,PO008,V003,1000,1000,0,Good,WH-A3,John Davis,Passed,Received and drop-shipped to customers
+GR009,2024-02-10,PO009,V001,300,300,5,Good,WH-A1,John Davis,Passed,5 units expired - credited by vendor
+GR010,2024-04-20,PO010,V007,1,1,0,Good,MFG-FL1,Engineering Team,Passed,Equipment installed and operational
+GR011,2024-02-28,PO011,V008,500,500,0,Service,N/A,Supply Chain Mgr,Passed,All shipments completed on time
+GR012,2024-02-16,PO012,V009,10,10,0,Digital,N/A,IT Admin,In Review,Licenses pending final activation
