@@ -1,0 +1,11 @@
+MetricID,MetricName,Category,January,February,March,Q1Total,Target,Status,Formula,Notes
+M001,Total Purchase Requisitions,Volume,12,8,10,30,32,Slight Shortfall,Count of all requisitions,Tracking monthly demand
+M002,Average PO Cycle Time,Speed,5,4.5,4.2,4.57,5,On Track,Days from requisition to PO,Improving trend
+M003,Invoice-to-Payment Days,Speed,22,20,19,20.33,21,On Track,Average DPO metrics,Better cash flow management
+M004,Supplier On-Time Delivery %,Quality,92%,94%,96%,94%,95%,On Track,On-time deliveries / total,Vendor performance improving
+M005,Three-Way Match Rate,Quality,96%,97%,98%,97%,99%,On Track,Matched invoices / total,Good internal controls
+M006,Procurement Cost Savings,Financial,12500,15000,18000,45500,40000,Exceeding,Approved discounts + rebates,Strong negotiation results
+M007,Invoice Error Rate,Quality,2.1%,1.8%,1.2%,1.7%,1%,Close,Error invoices / total,Vendor compliance improving
+M008,Average Invoice Value,Financial,2150,2300,2450,2300,2200,Above,Total amount / invoice count,Consolidation strategy working
+M009,Vendor Compliance Score,Quality,88%,90%,92%,90%,92%,On Track,Quality + delivery + compliance,Overall vendor performance
+M010,Process Automation Rate,Efficiency,45%,52%,58%,52%,60%,On Track,Automated transactions / total,Digitization in progress
