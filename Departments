@@ -1,0 +1,9 @@
+DepartmentID,DepartmentName,CostCenter,Manager,Budget,BudgetUtilization
+D001,Operations,CC-001,Robert Johnson,500000,65%
+D002,IT & Infrastructure,CC-002,Maria Garcia,300000,72%
+D003,Human Resources,CC-003,James Wilson,150000,45%
+D004,Finance & Accounting,CC-004,Patricia Lee,200000,58%
+D005,Marketing & Communications,CC-005,David Brown,250000,68%
+D006,Research & Development,CC-006,Susan Miller,400000,81%
+D007,Facilities & Maintenance,CC-007,Michael Davis,180000,52%
+D008,Supply Chain,CC-008,Lisa Anderson,220000,73%
