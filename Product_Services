@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,Description,UnitPrice,UnitOfMeasure,Supplier
+PS001,Office Chairs,Office Supplies,Ergonomic office chairs,250,Unit,V001
+PS002,Desktop Computers,IT Equipment,Dell/HP desktop computers,800,Unit,V002
+PS003,Printer Paper,Office Supplies,A4 copy paper (500 sheets),5,Ream,V001
+PS004,Software License,IT Equipment,Microsoft Office 365,120,License/Year,V002
+PS005,Industrial Bearings,Machinery Parts,High-precision ball bearings,45,Unit,V004
+PS006,Consulting Services,Professional Services,Management consulting (hourly),150,Hour,V005
+PS007,Electrical Components,Machinery Parts,Semiconductors and diodes,25,Unit,V010
+PS008,Packaging Materials,Raw Materials,Cardboard boxes and tape,12,Box,V003
+PS009,Cleaning Supplies,Maintenance,Janitorial supplies,8,Unit,V001
+PS010,Renewable Energy Audit,Services,Energy efficiency audit,2000,Project,V006
+PS011,Manufacturing Equipment,Machinery Parts,CNC machines,15000,Unit,V007
+PS012,Transportation Services,Logistics,Freight and shipping,1.5,Per Unit,V008
